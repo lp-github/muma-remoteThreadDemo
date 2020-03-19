@@ -1,0 +1,17 @@
+ 驱动器 C 中的卷没有标签。
+ 卷的序列号是 F22D-4966
+
+ C:\Users\liping\source\repos\remoteThreadDemo 的目录
+
+2020/02/22  11:27    <DIR>          .
+2020/02/22  11:27    <DIR>          ..
+2020/02/20  16:10    <DIR>          Debug
+2020/02/22  11:27             9,058 remoteThreadDemo.cpp
+2020/02/20  10:16             1,452 remoteThreadDemo.sln
+2020/02/20  10:16             7,431 remoteThreadDemo.vcxproj
+2020/02/20  10:16               961 remoteThreadDemo.vcxproj.filters
+2020/02/20  10:15               168 remoteThreadDemo.vcxproj.user
+2020/02/22  11:27                 0 result.txt
+2020/02/20  16:10    <DIR>          x64
+               6 个文件         19,070 字节
+               4 个目录 46,823,038,976 可用字节
